@@ -1,7 +1,7 @@
 package com.example.apphoroscopo.data
 
-import com.example.apphoroscopo.Horoscope
-import com.example.myapplication.R
+import com.example.apphoroscopo.data.HoroscopeProvider
+import com.example.apphoroscopo.R
 
 class HoroscopeProvider {
     companion object {

@@ -15,6 +15,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.example.apphoroscopo.data.Horoscope
+import com.example.apphoroscopo.data.HoroscopeProvider
 import com.google.android.gms.cast.framework.SessionManager
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.google.android.material.progressindicator.LinearProgressIndicator
