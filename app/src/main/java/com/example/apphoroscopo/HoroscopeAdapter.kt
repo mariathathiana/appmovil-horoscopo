@@ -43,7 +43,8 @@ class HoroscopeAdapter(var items: List<Horoscope>, val onItemClick: (Int) -> Uni
 
 }
 
-class  HoroscopeViewHolder(view: View) : RecyclerView.ViewHolder(ItemView = view) {
+class HoroscopeViewHolder(view: View) : RecyclerView.ViewHolder(view)
+{
     val nameTextView: TextView = view.findViewById(R.id.nameTextView)
     val datesTextView: TextView = view.findViewById(R.id.datesTextView)
     val iconImageView: ImageView = view.findViewById(R.id.iconImageView)

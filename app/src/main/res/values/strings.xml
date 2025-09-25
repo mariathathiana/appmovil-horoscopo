@@ -31,6 +31,10 @@
     <string name="menu_favorite">Favorite</string>
     <string name="menu_share">Share</string>
 
+    <string name="menu_daily">Daily</string>
+    <string name="menu_weekly">Weekly</string>
+    <string name="menu_monthly">Monthly</string>
+
 
     <string name="luck_label">Your luck today:</string>
 
