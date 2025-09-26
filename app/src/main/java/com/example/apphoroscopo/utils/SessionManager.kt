@@ -1,6 +1,7 @@
 package com.example.apphoroscopo.utils
 
-import android.R
+import com.example.apphoroscopo.R
+
 import android.content.Context
 
 class SessionManager(context: Context)  {
